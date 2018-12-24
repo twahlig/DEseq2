@@ -1,0 +1,7 @@
+sampleID	Group
+XE40V_1.bam	Group1
+XE40V_2.bam	Group1
+XE40V_3.bam	Group1
+XE40_1.bam	Group2
+XE40_2.bam	Group2
+XE40_3.bam	Group2
